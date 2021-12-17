@@ -1,0 +1,12 @@
+Organism,N50,TECH,BUSCO
+Renan,2159703,Long-read,99.1
+ArinaLrFor,80671,Short-read,99.3
+Landmark,50760,Short-read,99.1
+Stanley,58187,Short-read,99.1
+ChineseSpring,341062,Short-read,99.3
+Jagger,48892,Short-read,99.1
+Julius,54071,Short-read,99.1
+Lancer,75940,Short-read,99.1
+Mace,71972,Short-read,99.0
+Norin61,66892,Short-read,99.0
+SY_Mattis,76803,Short-read,99.1

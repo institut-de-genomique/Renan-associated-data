@@ -1,0 +1,15 @@
+# BUSCO version is: 5.0.0 
+# The lineage dataset is: poales_odb10 (Creation date: 2020-08-05, number of species: 12, number of BUSCOs: 4896)
+# Summarized benchmarking in BUSCO notation for file /env/export/bigtmp2/jmaury/wheat/genomes/Triticum_aestivum_CDC_Landmark_v1.0.pseudomolecules.fasta
+# BUSCO was run in mode: genome
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:99.1%[S:3.2%,D:95.9%],F:0.0%,M:0.9%,n:4896	   
+	4851	Complete BUSCOs (C)			   
+	156	Complete and single-copy BUSCOs (S)	   
+	4695	Complete and duplicated BUSCOs (D)	   
+	0	Fragmented BUSCOs (F)			   
+	45	Missing BUSCOs (M)			   
+	4896	Total BUSCO groups searched		   

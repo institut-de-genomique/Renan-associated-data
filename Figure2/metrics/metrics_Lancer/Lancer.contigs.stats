@@ -1,0 +1,20 @@
+#-------------------- GLOBAL STATISTICS -------------------#
+N50 size= 75940  number= 54203
+N80 size= 31337  number= 139937
+N90 size= 17082  number= 200038
+Cumulative size= 14177916449 number= 508146 minSize= 158 maxSize= 854693 averageSize= 27901 auN= 97648
+#----------------------------------------------------------#
+#-------------------- SIZE REPARTITION --------------------#
+Size= >= 100000 	Number= 34093      (6.71)	CumulativeSize= 5341457833      (37.67)
+Size= >= 50000  	Number= 92365      (18.18)	CumulativeSize= 9444018709      (66.61)
+Size= >= 30000  	Number= 144536     (28.44)	CumulativeSize= 11483354272     (80.99)
+Size= >= 10000  	Number= 246665     (48.54)	CumulativeSize= 13382405286     (94.39)
+Size= >= 5000   	Number= 304541     (59.93)	CumulativeSize= 13808861867     (97.40)
+Size= >= 1500   	Number= 401292     (78.97)	CumulativeSize= 14070795190     (99.24)
+Size= >= 1000   	Number= 469965     (92.49)	CumulativeSize= 14153930804     (99.83)
+Size= >= 500    	Number= 497229     (97.85)	CumulativeSize= 14173835107     (99.97)
+#----------------------------------------------------------#
+#-------------------- BASE COMPOSITION --------------------#
+NumberOfN= 0 (0.00%) NumberOfGC= 6541975283 (46.14%)
+#----------------------------------------------------------#
+
